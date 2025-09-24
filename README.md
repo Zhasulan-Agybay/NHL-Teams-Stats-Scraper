@@ -38,7 +38,7 @@ python src/main.py
 ```
 
 ## Demo.gif
-![Demo_GIF](GIF/demo)
+![Demo_GIF](https://github.com/Zhasulan-Agybay/NHL-Teams-Stats-Scraper/blob/main/NHL%20Teams%20Stats%20Scraper/GIF/demo.gif)
 
 #### 👨💻 About This Project
 
