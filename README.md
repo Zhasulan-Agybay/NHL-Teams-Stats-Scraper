@@ -17,7 +17,7 @@ NHL-Teams-Stats-Scraper/
 │   └── main.py # main scraper script
 ├── output/ 
 │   └── teams_stats.csv # CSV file with scraped data 
-├── docs/
+├── GIF/
 │   └── demo.gif # optional demo animation
 ├── .gitignore
 ├── requirements.txt # dependencies 
