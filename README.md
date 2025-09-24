@@ -27,7 +27,7 @@ NHL-Teams-Stats-Scraper/
 ## Installation
 ```bash
 # The repository
-git clone https://github.com/<your-username>/NHL-Teams-Stats-Scraper.git
+git clone https://github.com/Zhasulan-Agybay/NHL-Teams-Stats-Scraper.git
 cd NHL-Teams-Stats-Scraper
 
 # Install dependencies
